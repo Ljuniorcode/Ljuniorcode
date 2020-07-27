@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  HTML | CSS | JavaScript | TypeScript | Node.js | ReactJS | React Native |  Git
+  HTML | CSS | JavaScript | TypeScript | Node.js | MongoDB | ReactJS | React Native |  Git
 </p>
 
 <h3 align="center">
