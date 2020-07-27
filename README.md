@@ -41,9 +41,6 @@
   🏠 Moro em <b>Brasília</b>, <b>Distrito Federal</b>, <b>Brasil</b> &nbsp; 💼 Quero trabalhar  desenvolvendo conteúdos para web. 
 </p>
 
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📜 Formei em redes de computadores, trabalhava com a parte de infraestrutura que envolvia, servidores windows, linux, storage, vmware, switches, firewalls e ferramentas de monitoramento. 🎇 Infelizmente, devido a pandemia, fiquei desempregado e desde então, resolvi me reinventar.
-</p>
 
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Estou fazendo cursos online com a <b>Alura</b> | <b>Rocketseat</b> | <b>Erick Wendel</b> &nbsp; <br/><br/>🎯 Canais do discord que participo 👉 <b>CollabCode</b>, <b>Rocketseat</b> e <b>Erick Wendell Treinamentos.</b>
