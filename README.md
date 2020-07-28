@@ -7,11 +7,11 @@
 </h3>
 
 <p align="center">
-  HTML | CSS | JavaScript | TypeScript | Node.js | MongoDB | ReactJS | React Native |  Git
+  JavaScript | TypeScript | Node.js | MongoDB | ReactJS | React Native |  Git
 </p>
 
 <h3 align="center">
-  Quer fazer network e conversar sobre desenvolvimento? Só add👇
+  Contato para netowrk 👇
 </h3>
 
 
@@ -43,5 +43,5 @@
 
 
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Estou fazendo cursos online com a <b>Alura</b> | <b>Rocketseat</b> | <b>Erick Wendel</b> &nbsp; <br/><br/>🎯 Canais do discord que participo 👉 <b>CollabCode</b>, <b>Rocketseat</b> e <b>Erick Wendell Treinamentos.</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Estou fazendo cursos online com a <b>Alura</b> | <b>Rocketseat</b> | <b>Erick Wendel</b> &nbsp; <br/><br/>🎯 Estou nas comunidades 👉 <b>CollabCode</b>, <b>Rocketseat</b> e <b>Erick Wendell Treinamentos.</b>
 </p>
