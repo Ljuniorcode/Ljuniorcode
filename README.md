@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  JavaScript | TypeScript | Node.js | MongoDB | ReactJS | React Native |  Git
+  JavaScript | Node.js | MongoDB | ReactJS | React Native 
 </p>
 
 
