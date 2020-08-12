@@ -3,7 +3,7 @@
 
 ## Olá pessoal, Luciano Junior por aqui  ✔ 
 Entusiasta das melhores tecnologias de desenvolvimento web e móvel. <br/>
-Estou iniciando com ReactJS, Node.js, React Native & Typescript 
+Focado em ReactJS, Node.js, React Native & Typescript 
 
  :rocket:  &nbsp; Hoje estou elevando as habilidades em **JavaScript**
  <br/> :computer: &nbsp; Quero transformar a vida das pessoas usando a tecnologia.
