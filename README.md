@@ -5,8 +5,10 @@
 Entusiasta das melhores tecnologias de desenvolvimento web e móvel. <br/>
 Focado em ReactJS, Node.js, React Native & Typescript 
 
- :rocket:  &nbsp; Hoje estou elevando as habilidades em **JavaScript**
- <br/> :computer: &nbsp; Quero transformar a vida das pessoas usando a tecnologia.
+ :rocket:  &nbsp; Hoje estou elevando as habilidades em **JavaScript**.
+ <br/>👀 Sempre procurando maneiras de se tornar um desenvolvedor melhor.
+ <br/>💪 Preparando para me tornar um desenvolvedor fullstack.
+
  <br/> 💬  &nbsp; Status: Construindo projetos, adquirindo conhecimento e aberto para novas oportunidades.
  <br/> :email: &nbsp; Entre em contato comigo 👉 [![Linkedin Badge](https://img.shields.io/badge/-LucianoJunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-junior-dev/)](https://www.linkedin.com/in/luciano-junior-dev/) 
 | 
