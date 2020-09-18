@@ -3,11 +3,11 @@
 
 ## Luciano Junior 
 Entusiasta das melhores tecnologias de desenvolvimento web e móvel. <br/>
-Estou Praticando HTML, CSS, JavaScript, Node.js, ,mongoDB, TypeScript...
+Estou Praticando HTML, CSS, JavaScript, Node.js, mongoDB e TypeScrip
 
  <br/>🚀 Hoje estou elevando as habilidades em **JavaScript**.
  <br/>👀 Sempre procurando maneiras de se tornar um desenvolvedor melhor.
- <br/>💪 Preparando para me tornar um Desenvolvedor Web, estou em constante aprendizado.
+ <br/>💪 Estou em constante aprendizado.
  <br> 🎓 Focado em Vanilla JS / (Node.js e React.Js)
  <br/> 💬  &nbsp; Status: Construindo projetos, adquirindo conhecimento e aberto para novas oportunidades.
  <br/> :email: &nbsp; Contato  [![Linkedin Badge](https://img.shields.io/badge/-LucianoJunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-junior-dev/)](https://www.linkedin.com/in/luciano-junior-dev/) 
