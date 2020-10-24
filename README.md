@@ -3,7 +3,7 @@
 
 ## Luciano Junior 
 Entusiasta das melhores tecnologias de desenvolvimento web e móvel. <br/>
-Estou aprendendo e praticando HTML, CSS, JavaScript, Node.js, mongoDB e TypeScript
+Estou aprendendo e praticando HTML, CSS, JavaScript, Node.js e React.JS
 
  <br/>🚀 Hoje estou elevando as habilidades em **JavaScript**.
  <br/>👀 Sempre procurando maneiras de se tornar um desenvolvedor melhor.
