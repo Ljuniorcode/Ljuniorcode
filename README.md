@@ -1,9 +1,7 @@
-![2](https://user-images.githubusercontent.com/59096165/89748356-255e2600-da99-11ea-9827-bcb677a1848f.jpg)
-
 
 ## Luciano Junior 
 Entusiasta das melhores tecnologias de desenvolvimento web e móvel. <br/>
-Estou aprendendo e praticando HTML, CSS, JavaScript, Node.js e React.JS
+Estou aprendendo e praticando HTML, CSS, JavaScript, ReactJS e Node.js.
 
  <br/>🚀 Hoje estou elevando as habilidades em **JavaScript**.
  <br/>👀 Sempre procurando maneiras de se tornar um desenvolvedor melhor.
