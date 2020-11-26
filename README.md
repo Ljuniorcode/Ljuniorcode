@@ -1,5 +1,5 @@
 
-## Oi, eu sou o Luciano Junior.
+## Oi, eu sou o Luciano.
 ## Desenvolvedor Front-end Jr. <br/>
 
  <br/>🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, ReactJS, NodeJS, MySQL e Git.
