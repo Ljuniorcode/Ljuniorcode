@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador luciano">
 
 <p align="left"> 
-  Olá, meu nome é Luciano e sou um <strong>Desenvolvedor Front-end Jr</strong><br><br>
+  Olá, meu nome é Luciano. Seja bem-vindo(a).</strong><br><br>
+    
+  📜 Formei em Redes de Computadores, tenho experiência em TI desde 2012 com suporte técnico e infraestrutura de redes.
 
-  🌱 Tenho conhecimento em HTML, CSS, Javascript,  NodeJs e Git. Atualmente começando os estudos em ReactJS. 
+  🌱 Tenho conhecimento em HTML, CSS, Javascript, NodeJs, ReactJS, MySQL e Git... (aprendizado contínuo) 
   
-  📜 Formei em Redes de Computadores, tenho experiência com suporte técnico, infraestrutura de redes, monitoramento, storage e TCP/IP. Trabalhei com servidores windows e linux desde 2014.
-  
-  🌍 Devido as circunstâncias atuais do mundo, estou reescrevendo minha história na área de TI com o  desenvolvimento web. 
+  🌍 Devido as circunstâncias atuais do mundo, estou reescrevendo minha trajetória na área de TI com o desenvolvimento web. 
 
-  🚀 Estou construindo projetos na área de front-end e adquirindo conhecimento com prática do dia a dia através de cursos online, lives de código, blogs, bootcamps e estou aberto para novas oportunidades.
+  🚀 Estou construindo projetos na área de front-end, adquirindo conhecimento e prática através de cursos online, lives de código, bootcamps, e estou aberto para novas     oportunidades.
 
 </p>
 <br>
