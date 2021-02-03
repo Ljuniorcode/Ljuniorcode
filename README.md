@@ -3,32 +3,15 @@
 <p align="left"> 
   Olá, meu nome é Luciano. Seja bem-vindo(a).</strong><br><br>
     
-  📜 Formei em Redes de Computadores, tenho experiência em TI desde 2012 com suporte técnico e infraestrutura de redes.
+  📜 Formei em Redes de Computadores, tenho experiência em TI desde 2012 com suporte técnico, gestão de TI, analista de suporte e infraestrutura.
 
-  🌱 Tenho conhecimento em HTML, CSS, Javascript, NodeJs, ReactJS, MySQL e Git... (aprendizado contínuo) 
+  🌱 Tenho conhecimento em HTML, CSS, Javascript, SQL, PLSQL, Modelagem de dados, Git, servidores GNU/Linux CentOS/Ubuntu e Windows Server.
   
-  🌍 Devido as circunstâncias atuais do mundo, estou reescrevendo minha trajetória na área de TI com o desenvolvimento web. 
-
-  🚀 Estou construindo projetos na área de front-end, adquirindo conhecimento e prática através de cursos online, lives de código, bootcamps, e estou aberto para novas     oportunidades.
-
-</p>
-<br>
-<p align="left">
-   Tecnologias: <br>
+  🌍 Sou um entusiasta de TI, gosto de saber como as coisas funcionam além da parte técnica e da minha área. Participo de comunidades de desenvolvimento web e eventos que       envolvem Banco de dados.
   
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) 
-![Node](https://img.shields.io/badge/-nodejs-green?logo=node) 
-![React Badge](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=white)<br>
+  🚀 Estou aprofundando meus conhecimentos em SQL, participando de um projeto local no desenvolvimento de um sistema e aberto para novas oportunidades para trabalhar como  analista de dados ou dba jr.
 
 
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-
-</p>
-<br>
 
 <p align="left">
   💌 Onde você pode me encontrar: ⤵️
