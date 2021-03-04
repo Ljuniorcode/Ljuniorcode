@@ -7,9 +7,8 @@
 
   🌱 Tenho conhecimento em HTML, CSS, Javascript, SQL, PLSQL, Modelagem de dados, Git, servidores GNU/Linux CentOS/Ubuntu e Windows Server.
   
-  🌍 Sou um entusiasta de TI, gosto de saber como as coisas funcionam além da parte técnica e da minha área. Participo de comunidades de desenvolvimento web e eventos que       envolvem Banco de dados.
+  🌍 Sou um entusiasta de TI, gosto de saber como as coisas funcionam além da parte técnica e da minha área. 
   
-  🚀 Estou aprofundando meus conhecimentos em SQL, participando de um projeto local no desenvolvimento de um sistema e aberto para novas oportunidades para trabalhar como  analista de dados ou dba jr.
 
 
 
