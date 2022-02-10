@@ -2,7 +2,7 @@
 
 - 🛠️ Hoje trabalho com monitoramento de aplicações web e operações de TI (Docs, GMUD, AzureDevops)
 - ☁️ Estudo Microsof Azure na TFTEC (AZ-900 ✔️, AZ-104 ⏳)
-- 👁️‍ Tenho interesse em: Cloud (Azure), Docker, Kubernetes e Terraform
+- 👁️‍ Tenho interesse em: Cloud (Azure), Infraestrutura, Docker e Kubernetes
 - 🌱 Vamos fazer network? me add nas redes sociais
 
 
