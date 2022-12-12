@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Luciano Junior, seja bem vindo(a) ao meu github.
 
-- 🛠️ Hoje trabalho com monitoramento de aplicações web e operações de TI (Docs, GMUD, AzureDevops, Melhoria de fluxos)
+- 🛠️ Hoje trabalho com monitoramento de aplicações web e operações de TI (Documentação, GMUD, Melhoria de fluxos)
 - ☁️ Estou fazendo o Curso de Especialização em AWS pela Cloud Treinamentos
 - 👉 Possuo conhecimentos em Redes, Servidores Windows e GNU/Linux
-- 👁️‍ Tenho interesse em: Infraestrutura como código(IaC), Docker e Kubernetes
+- 👁️‍ Tenho interesse em: Infraestrutura como código(IaC), CI/CD e Containers
 - 🌱 Vamos fazer network? me add nas redes sociais
 
 
