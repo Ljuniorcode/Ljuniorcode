@@ -2,8 +2,9 @@
 
 - 🛠️ Hoje trabalho com monitoramento de aplicações web e operações de TI (Documentação, GMUD, Melhoria de fluxos)
 - ☁️ Estou fazendo o Curso de Especialização em AWS pela Cloud Treinamentos
-- 👉 Possuo conhecimentos em Redes, Servidores Windows e GNU/Linux
-- 👁️‍ Tenho interesse em: Infraestrutura como código(IaC), CI/CD e Containers
+- 🛠️ Estudo GNU/Linux na plataforma 4linux
+- 👉 Possuo conhecimentos em Redes, Backup, Servidores Windows e GNU/Linux
+- 👁️‍ Tenho interesse em: Infraestrutura como código(IaC) e Containers
 - 🌱 Vamos fazer network? me add nas redes sociais
 
 
