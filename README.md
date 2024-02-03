@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Luciano Junior, seja bem vindo(a) ao meu github.
 
-- 🛠️ Hoje trabalho com infraestrutura de TI, monitoramento de aplicações e servidores
+- 🛠️ Hoje trabalho com infraestrutura de TI, monitoramento de aplicações e servidores, integração de sistemas.
 - ☁️ Formação Acadêmica: Tecnólogo em Redes de computadores e Pós-Graduação em Computação em Nuvem
-- 🛠️ Estudo GNU/Linux na plataforma 4linux
-- 👉 Possuo experiência em AWS, Redes, Backup, Servidores Windows e GNU/Linux
-- 👁️‍ Conhecimento: Infraestrutura como código(IaC) e Container
+- 👉 Possuo experiência em AWS, Redes, Backup, administração de serviços em Servidores Windows e GNU/Linux
+- 👁️‍ Conhecimento: Ansible, Docker e Kubernetes
 - 🌱 Vamos fazer network? me add nas redes sociais
 
 
